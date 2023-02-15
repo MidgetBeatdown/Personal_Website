@@ -1,0 +1,65 @@
+#poop-but-cooler,
+#colored-table {
+  border: 1px solid #aacb73;
+}
+
+thead,
+tfoot {
+  background-color: #aacb73;
+  color: #fff;
+}
+
+body {
+  background-color: #ffffe8;
+}
+hr {
+  border-style: dotted none none;
+  background-color: #ffffe8;
+  width: 10%;
+  border-width: 7px;
+  border-color: #ffd4d4;
+  margin-left: 35px;
+}
+
+a {
+  color: #aacb73;
+}
+
+#submit {
+  background-color: #ffd4d4;
+  border-style: none;
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+.custom-file-upload {
+  border: 1px solid #ffd4d4;
+  display: inline-block;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+input[type="file"] {
+  display: none;
+}
+
+.submit-form {
+  border: 1px solid #ffd4d4;
+  display: inline-block;
+  padding: 6px 12px;
+  cursor: pointer;
+}
+
+h1,
+h3 {
+  color: #ffd4d4;
+}
+
+#poop {
+  border: none;
+  border-spacing: 11px;
+}
